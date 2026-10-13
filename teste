@@ -1,0 +1,4 @@
+   bash setup.sh
+      mv BauColetor/* BauColetor/.github . && rmdir BauColetor
+         rm setup.sh
+            git add -A && git commit -m "Baú Coletor v0.1" && git push

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Baú Coletor</string>
+    <string name="service_desc">Detecta o baú de tesouros nas lives do TikTok e toca nele automaticamente.</string>
+</resources>
